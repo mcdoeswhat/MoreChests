@@ -1,0 +1,9 @@
+name: MoreChests
+author: Albert
+main: me.albert.morechests.MoreChests
+version: 1.0.0
+api-version: 1.12.2
+commands:
+  morechest:
+    aliases: [mc]
+    permission: morechests.admin
